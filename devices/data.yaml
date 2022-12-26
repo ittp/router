@@ -3,3 +3,11 @@ device:
   
   ports: 
     wan: 'A0-F3-C1-49-3E-59'
+    
+wan: []
+
+lan: 
+  PC: 
+    static: 102
+    mac: '544249FAC8B5'
+
