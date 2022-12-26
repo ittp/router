@@ -1,0 +1,5 @@
+device:
+  name: data
+  
+  ports: 
+    wan: 'A0-F3-C1-49-3E-59'
